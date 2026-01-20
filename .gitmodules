@@ -1,0 +1,6 @@
+[submodule "3rd Year/CC/Projeto_CC_2526"]
+	path = 3rd Year/CC/Projeto_CC_2526
+	url = git@github.com:Brito-MP/Projeto_CC_2526.git
+[submodule "CC/Projeto_CC_2526"]
+	path = CC/Projeto_CC_2526
+	url = git@github.com:Brito-MP/Projeto_CC_2526.git
